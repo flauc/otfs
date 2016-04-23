@@ -1,6 +1,6 @@
 {
   "name": "otfs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple npm library that creates nicely formatted template strings from objects.",
   "main": "index.js",
   "keywords": [
@@ -11,6 +11,14 @@
     "npm",
     "node"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flauc/otfs"
+  },
+  "bugs": {
+    "url": "https://github.com/flauc/otfs/issues"
+  },
+  "homepage": "https://github.com/flauc/otfs",
   "author": "Filip Lauc <filip.lauc93@gmail.com> (https://github.com/flauc)",
   "license": "MIT"
 }
