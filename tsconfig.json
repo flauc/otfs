@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "removeComments": true
+  },
+  "files": [
+    "app.ts",
+    "typings/main.d.ts",
+    "helpers/filer.ts",
+    "helpers/helpers.ts",
+    "init/init.ts",
+    "init/initPrompt.ts",
+    "init/apps/simple.ts",
+    "generators/single/component.ts",
+    "generators/single/directive.ts",
+    "generators/single/service.ts",
+    "generators/single/pipe.ts"
+  ]
+}

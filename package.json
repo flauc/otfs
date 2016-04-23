@@ -1,0 +1,19 @@
+{
+  "name": "otfs",
+  "version": "0.0.1",
+  "description": "A simple npm library that creates nicely formatted template strings from objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "template",
+    "string",
+    "string",
+    "npm",
+    "node"
+  ],
+  "author": "Filip Lauc <filip.lauc93@gmail.com> (https://github.com/flauc)",
+  "license": "MIT"
+}
