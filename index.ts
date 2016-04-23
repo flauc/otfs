@@ -1,6 +1,6 @@
 let tabDepth = 0;
 
-export function createTemplateStringFromObject(obj: Object): string  {
+export function create(obj: Object): string  {
     tabDepth = 0;
     return buildObject(obj, true);
 }
@@ -59,4 +59,13 @@ function set(value: any): any {
     }
 
     return toReturn;
+}
+
+function stringMultiply(initial: string, times: number): string {
+    let timesFixed = Math.round(times),
+        final = ``;
+
+    for (let i = 0; i < timesFixed; i++) final += initial;
+
+    return final;
 }
