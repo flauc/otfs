@@ -19,7 +19,7 @@ let something = {
         d: "this also works",
         e: ["and this", "and this", "and this"]
     }
-}
+};
 
 otfs.create(something)
 ```
