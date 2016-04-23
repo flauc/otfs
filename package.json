@@ -1,6 +1,6 @@
 {
   "name": "otfs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple npm library that creates nicely formatted template strings from objects.",
   "main": "index.js",
   "keywords": [
