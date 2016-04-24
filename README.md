@@ -23,3 +23,6 @@ let something = {
 
 otfs.create(something)
 ```
+## Example
+
+For a simple example clone this repository and check out the example folder.

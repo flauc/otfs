@@ -1,0 +1,11 @@
+{
+  "name": "otfs-simple-example",
+  "version": "0.0.1",
+  "description": "This is just a very simple example of using the otfs library",
+  "main": "app.js",
+  "author": "Filip Lauc <filip.lauc93@gmail.com> (https://github.com/flauc)",
+  "license": "MIT",
+  "dependencies": {
+    "otfs": "0.0.3"
+  }
+}
